@@ -1,4 +1,9 @@
+[![Docker Stars](https://img.shields.io/docker/stars/ab9er/xvfb-selenium.svg?style=flat-square)](https://hub.docker.com/r/ab9er/xvfb-selenium/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/ab9er/xvfb-selenium.svg?style=flat-square)](https://hub.docker.com/r/ab9er/xvfb-selenium/)
+
+
 # xvfb-selenium
+==================
 Xvfb based selenium supporting firefox and chromium
 
 This image uses `alpine:3.3` as its base image and contains firefox and chromium.
